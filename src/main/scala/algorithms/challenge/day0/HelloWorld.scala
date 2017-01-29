@@ -1,4 +1,4 @@
-package algorithms.challenge
+package algorithms.challenge.day0
 
 /**
  * @author ${user.name}
